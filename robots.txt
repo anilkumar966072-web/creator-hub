@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://creatorhub.com/sitemap.xml
